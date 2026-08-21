@@ -6,6 +6,14 @@ An end-to-end **Sales MIS project developed in Microsoft Excel** to clean, organ
 
 The objective of this project was to create a practical Sales MIS system that helps track sales performance across **brands, tractor models, dealers, sales executives, cities, states, and regions** and provides management-level insights through interactive dashboards.
 
+## 📊 Dashboard Preview
+
+### 🚜 Brand Sales Dashboard
+![Brand Sales Dashboard](Brand_Sales_Dashboard.png)
+
+### 📈 Executive Sales Dashboard
+![Executive Sales Dashboard](Executive_Dashboard.png)
+
 ## 📊 Dataset & Scope
 
 - Approx. 2,000 sales transaction records
